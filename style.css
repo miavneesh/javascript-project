@@ -1,0 +1,44 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 80px;
+    height: 80px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #violet {
+    background: violet;
+  }
+  
+  #indigo {
+    background: indigo;
+  }
+  #blue {
+    background: blue;
+  }
+  #green {
+    background: green;
+  }
+  
+  #yellow {
+    background: yellow;
+  }
+  #orange {
+    background: orange;
+  }
+  #red {
+    background: red;
+  }
+  
